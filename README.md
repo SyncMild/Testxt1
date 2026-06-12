@@ -141,5 +141,4 @@ document.getElementById("rpsResult")
 </script>
 
 </body>
-</html># Testxt1
-It's just a test :)
+</html>
